@@ -1,0 +1,153 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:59:53
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-02-08 09:40:08
+*/
+.box{
+	width: 249px;
+	height: 554px;
+	background: black;
+	border-radius:34px; 
+	margin: 0 auto;
+	border: 3px solid black;
+	box-shadow: 0 0 5px 2px #dcdcde inset;
+	background: -webkit-linear-gradient(45deg #060000 #070000);
+	position: relative;
+	margin-left: 350px;
+	float: left;
+} 
+.top{
+	width: 245px;
+	height: 27px;
+	border-top-left-radius: 34px;
+	border-top-right-radius: 34px;
+	background: #060000;
+	margin: 0 auto;
+	overflow: hidden;
+	/*box-shadow: 0 0px 2px 1px pink inset;*/
+}  
+.kuang{
+	width: 166px;
+	height: 14px;
+	margin: 0 auto;
+	background: #060000;
+	margin-top: 9px;
+}
+.dian1{
+	width: 6px;
+	height: 6px;
+	float: left;
+	border-radius: 50%;
+	background: #1A1818;
+	margin-top: 4px;
+	margin-left: 10px;
+	box-shadow: 0 0 2px 1px #5A5A58 inset;
+}
+.dian2{
+	width: 12px;
+	height: 12px;
+	float: left;
+	border-radius: 50%;
+	background: #1A1C2F;
+	margin-top: 1px;
+	margin-left: 3px;
+	box-shadow: 0 0 2px 2px #5A5A58 inset;
+}
+.dian3{
+	width: 8px;
+	height: 8px;
+	float: left;
+	border-radius: 50%;
+	background: #010005;
+	margin-top: 3px;
+	margin-left: 5px;
+	box-shadow: 0 0 2px 1px #5A5A58 inset;
+}
+.dian4{
+	width: 7px;
+	height: 7px;
+	float: left;
+	border-radius: 50%;
+	background: #010005;
+	margin-top: 3.5px;
+	margin-left: 5px;
+	box-shadow: 0 0 2px 1px #5A5A58 inset;
+}
+.dian5{
+	width: 35px;
+	height: 4px;
+	float: left;
+	border-radius: 15px;
+	background: #2B292C;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.dian6{
+	width: 9px;
+	height: 9px;
+	float: left;
+	border-radius: 50%;
+	background: #1B1517;
+	margin-top: 2.5px;
+	margin-left: 20px;
+	box-shadow: 0 0 2px 2px #5A5A58 inset;
+}
+.dian7{
+	width: 6px;
+	height: 6px;
+	float: left;
+	border-radius: 50%;
+	background: #1E1F26;
+	margin-top: 4px;
+	margin-left: 5px;
+	box-shadow: 0 0 2px 2px #5A5A58 inset;
+}
+.main{
+	width: 245px;
+	height: 501px;
+	border-top-left-radius: 34px;
+	border-top-right-radius: 34px;
+	border-bottom-left-radius: 34px;
+	border-bottom-right-radius: 34px;
+	margin: 0 auto;
+	
+
+}
+.bg{
+	display: block;
+	width: 245px;
+	height: 501px;
+}
+.anjian1{
+	width: 4px;
+	height: 37px;
+	background: #080703;
+	position: absolute;
+	border-top-right-radius: 2px;
+	border-bottom-right-radius: 2px;
+	left: 251px;
+	top: 171px;
+}
+.anjian2{
+	width: 4px;
+	height: 80px;
+	background: #080703;
+	position: absolute;
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+	right:251px;
+	top: 92px;
+}
+.anjian3{
+	width: 4px;
+	height: 38px;
+	background: #080703;
+	position: absolute;
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+	right:251px;
+	top: 203px;
+}
+
